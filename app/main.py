@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 
-st.title("🤖[GITHUB] RAG Demo")
+st.title("🤖[GITHUB] RAG Demo <VSCODE GIT 연동 test중...>")
 st.caption("MariaDB VectorStore + OpenAI Embedding + RAG")
 
 # =========================
