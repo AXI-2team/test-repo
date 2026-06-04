@@ -23,8 +23,12 @@ st.set_page_config(
     layout="wide"
 )
 
+vs-psh
+st.title("🤖 [VS-GitHub] RAG Demo (MariaDB VectorStore 기반)")
+=======
 
 st.title("🤖[GITHUB] RAG Demo <VSCODE GIT 연동 test중...>")
+master
 st.caption("MariaDB VectorStore + OpenAI Embedding + RAG")
 
 # =========================
