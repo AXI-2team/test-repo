@@ -23,7 +23,8 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🤖[SHIN] RAG Demo (MariaDB VectorStore 기반)")
+
+st.title("🤖[GITHUB] RAG Demo")
 st.caption("MariaDB VectorStore + OpenAI Embedding + RAG")
 
 # =========================
